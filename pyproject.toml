@@ -1,3 +1,5 @@
+[tool.poetry]
+package-mode = false
 [project]
 name = "tracker"
 version = "0.1.0"
